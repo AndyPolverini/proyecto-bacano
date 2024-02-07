@@ -797,8 +797,13 @@ footer {
 }
 
 @media screen and (min-width: 1023px) {
-    .banner-cover {
+    .banner-cover1 {
         background-image: url(../img/banner.jpg);
+    }
+}
+@media screen and (min-width: 1023px) {
+    .banner-cover2 {
+        background-image: url(../img/banner-mujer.jpg);
     }
 }
 
